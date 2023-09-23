@@ -16,3 +16,4 @@
 	8. *Rituals*
 	9. *Holidays*
 	10. *Religious Beliefs*
+- Whole part of a ==culture== is greater than the sum of its parts, and these parts are ==interrelated== to each other.
