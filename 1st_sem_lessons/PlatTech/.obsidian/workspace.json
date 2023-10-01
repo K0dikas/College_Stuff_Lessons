@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f2eacf25962de4d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "17f5ccba48efdc5a",
+            "id": "28f7603f585a110d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Intro_To_OS.md",
+                "file": "5_Process_Description.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,19 +56,18 @@
             }
           },
           {
-            "id": "028b934609e81753",
+            "id": "17f5ccba48efdc5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Intro_To_OS.md",
+                "file": "5_Process_Description.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Intro_To_OS.md",
+                "file": "5_Process_Description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Intro_To_OS.md",
+                "file": "5_Process_Description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Intro_To_OS.md"
+                "file": "5_Process_Description.md"
               }
             }
           }
@@ -203,13 +194,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "028b934609e81753",
+  "active": "28f7603f585a110d",
   "lastOpenFiles": [
-    "2_Evolution_of_OS.md",
-    "1_Intro_To_OS.md",
-    "3_Overview_of_Some_OS.md",
     "4_Processes.md",
     "5_Process_Description.md",
+    "3_Overview_of_Some_OS.md",
+    "2_Evolution_of_OS.md",
+    "1_Intro_To_OS.md",
     "1_History_of_Badminton.md",
     "3_Artifacts_into_Mentifacts.md",
     "2_Historical_Criticism.md",
