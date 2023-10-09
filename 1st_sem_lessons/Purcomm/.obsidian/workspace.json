@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "1_Communication_Systems.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77fb05682b56093f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_Midterm-Amplitude_Modulation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Communication_Systems.md",
+                "file": "4_Midterm-Amplitude_Modulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Communication_Systems.md",
+                "file": "4_Midterm-Amplitude_Modulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Communication_Systems.md"
+                "file": "4_Midterm-Amplitude_Modulation.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5c8795100666368",
+  "active": "77fb05682b56093f",
   "lastOpenFiles": [
+    "1_Communication_Systems.md",
+    "4_Midterm-Amplitude_Modulation.md",
     "3_Gain_Attenuation_and_Decibels.md",
     "2_Categories_of_Electronic_Communication.md",
-    "1_Communication_Systems.md",
     "test.md",
     "1_Importance_and_Relevance_of_History.md",
     "2_Historical_Criticism.md",
