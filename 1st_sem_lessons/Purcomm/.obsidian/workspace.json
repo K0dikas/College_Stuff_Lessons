@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3d0e1527e1647e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_Frequency_and_Phase_Modulation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_Midterm-Amplitude_Modulation.md",
+                "file": "5_Frequency_and_Phase_Modulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_Midterm-Amplitude_Modulation.md",
+                "file": "5_Frequency_and_Phase_Modulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_Midterm-Amplitude_Modulation.md"
+                "file": "5_Frequency_and_Phase_Modulation.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77fb05682b56093f",
+  "active": "c3d0e1527e1647e1",
   "lastOpenFiles": [
-    "1_Communication_Systems.md",
     "4_Midterm-Amplitude_Modulation.md",
+    "5_Frequency_and_Phase_Modulation.md",
+    "1_Communication_Systems.md",
     "3_Gain_Attenuation_and_Decibels.md",
     "2_Categories_of_Electronic_Communication.md",
     "test.md",
