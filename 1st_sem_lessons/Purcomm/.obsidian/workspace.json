@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5c8795100666368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Communication_Systems.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "77fb05682b56093f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4_Midterm-Amplitude_Modulation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3d0e1527e1647e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3d0e1527e1647e1",
+  "active": "77fb05682b56093f",
   "lastOpenFiles": [
     "4_Midterm-Amplitude_Modulation.md",
     "5_Frequency_and_Phase_Modulation.md",

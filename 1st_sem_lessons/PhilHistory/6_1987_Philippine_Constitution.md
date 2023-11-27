@@ -1,0 +1,89 @@
+**The 1989 Constitution** - Known as *"Freedom Constitution"*, is the constitution made in fulfilling the duties of both `republic` and `democratic`. It brought together all of the hardships and trials of the people and their desire for *change*. It is still in use today, although it has been publicly *criticized* for its `vagueness` and `supposed loopholes`.
+
+##### The Preamble
+- *We, the sovereign Filipino people, imploring the aid of Almighty God, in order to build a just and humane society, and establish a government that shall embody our ideals and aspirations, promote the common good, conserve and develop our patrimony, and secure to ourselves and our posterity, the blessings of independence and democracy under the rule of law and a regime of trust, justice, freedom, love, equality, and peace, do ordain and promulgate this constitution.*
+
+##### Constitutional Articles
+- `I.` **The National Territory**
+- `II.` **Declaration of Principles and State Policies**
+	- Same as the *previous constitutions*, but `promotes` the *ideologies* of being both a `democratic` and `republic government`, giving the power to the people. Some of the principles and policies enacted are:
+		- *Separation of Church and State*
+		- *Reserve Army* `ROTC`
+		- *Supreme authority of civilian power over military*
+		- *Declaration of an independent foreign policy*
+		- *Renunciation of nuclear power*
+		- *Poverty and Social Justice*
+		- *The Family, the Women, and the Filipino Youth*
+		- *Public Health, Education, and Labor*
+		- *Investments and Economy*
+- `III.` **Bill of Rights**
+	- Listed below is the `COMPLETE` *Bill of Rights*, which every Filipino should know:
+		- *Life and Liberty*
+		- *Lawful Searches / Issuance of Warrants*
+		- *Privacy*
+		- *Speech, Expression, and of the Press*
+		- *Religion*
+		- *Abode and Travel*
+		- *Information*
+		- *Unions, Associations, and Societies*
+		- *Property*
+		- *Contract Agreement*
+		- *Free access to court and defense*
+		- *Miranda Rights / Silence* `Also includes anti-torture`
+		- *Reclusion Perpetua* `40-year imprisonment, bailable and capital offenses`
+		- *Right to Due Process & Presumption of Innocence*
+		- *Unlawful Imprisonment*
+		- *Right to access speedy trial*
+		- *Right against Self-Incrimination*
+		- *Political Imprisonment and Involuntary Servitude*
+		- *Rights against excessive  fines and inhumane punishments*
+		- *Unlawful Imprisonment due to Tax and Debt*
+		- *Right against Double Jeopardy*
+		- *Rights against Summary Executions and Retroactive laws*
+- `IV.` **Citizenship**
+	- Renamed from *Citizens
+	- Added a provision regrading *dual citizenship*
+- `V.` **Suffrage**
+	- Added a provision regarding the security of the *ballot's secrecy* and *sanctity*, as well as for absentee voters, procedures for the *differently-abled* and *illiterate*.
+- `VI.` **Legislative Department**
+	- Renamed from `National Assembly`
+- `VII.` **Executive Department**
+	- Renamed for the `Prime Minister` and the `Cabinet`
+	- Restores the powers of the `President` by merging the symbolic power of the `President` and the `Executive duties` of the `Prime Ministers`.
+	- Renamed the various `Ministries` into `Departments`
+- `VIII.` **Judicial Department**
+	- Renamed from `The Judiciary`
+- `IX.` **The Constitutional Commissions**
+	- Reinstated the *independence* of the *three* `3` commissions
+	- Limits the persons holding the positions from holding other positions other than the one entrusted with.
+	- All *three* `3` commissions have fiscal and policy autonomy
+- `X.` **Local Government**
+	- `Divides` the country into *several regions*, with each enjoying local autonomy `in descending order`:
+		- `Provinces`
+		- `Cities`
+		- `Municipalities`
+		- `Barangays`
+	- Provides autonomy in regions home for **Muslims** in `Mindanao`, as well as to those who live in the `Cordilleras` with the following *legislative powers* bestowed before them:
+		- `Administrative Organization`
+		- `Creation of sources of revenues`
+		- `Ancestral domain and natural resources`
+		- `Personal, family, and property relations`
+		- `Regional urban and rural planning development`
+		- `Economic, social, and tourism development`
+		- `Educational policies`
+		- `Preservation and development of the cultural heritage`
+		- `Provisions aimed for general welfare`
+- `XI.` **Accountability of Public Officers**
+	- Highlights the importance of public accountability and trust once in office
+	- Impeachment can now be impose by both officials and civilians to the following:
+		- `The House of Representatives` shall be the one to preside all impeachment cases
+		- Establishment of the `Sandiganbayan`, an *anti-graft* court, who will hold all `graft` and `corruption-related` cases
+		- The `Office of the Ombudsman` assigns an entirely new `Ombudsman`, with the former `Ombudsman` assigned from the `1973` *Constitution* be reassigned in the new `Office of the Special Prosecutor`
+		- Stresses the importance of the public figures' allegiance to the `State` and to the `Constitution`
+- `XII.` **The National Economy and Patrimony**
+- `XIII.` **Social Justice and Human Rights**
+- `XIV.` **Education, Science and Technology, Arts, Culture and Sports**
+- `XV.` **The Family**
+- `XVI.` **General Provisions**
+- `XVII.` **Amendments or Revisions**
+- `XVIII.` **Transitory Provisions**
