@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b5238df2cf711ab",
+            "id": "b8e392cd0f0b3033",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Rizal_Law.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc016e7a7a5af802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Trials_of_the_Rizal_bill.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f47d853e713e831a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_Rizal_Law_And_The_Catholic_Hierarchy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82dac9e75076c108",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4_The_Philippines_During_The_Spanish_Colonization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90ae324a1745e415",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_OFW_and_storyParts.md",
+                "file": "6_Pre_Finals_Reviewer.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_OFW_and_storyParts.md",
+                "file": "6_Pre_Finals_Reviewer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5_OFW_and_storyParts.md",
+                "file": "6_Pre_Finals_Reviewer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_OFW_and_storyParts.md"
+                "file": "6_Pre_Finals_Reviewer.md"
               }
             }
           }
@@ -195,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90ae324a1745e415",
+  "active": "b8e392cd0f0b3033",
   "lastOpenFiles": [
+    "6_Pre_Finals_Reviewer.md",
+    "5_OFW_and_storyParts.md",
     "4_The_Philippines_During_The_Spanish_Colonization.md",
     "3_Rizal_Law_And_The_Catholic_Hierarchy.md",
-    "5_OFW_and_storyParts.md",
-    "1_Rizal_Law.md",
     "2_Trials_of_the_Rizal_bill.md",
+    "1_Rizal_Law.md",
     "1_History_of_Badminton.md",
     "3_Artifacts_into_Mentifacts.md",
     "2_Historical_Criticism.md",
