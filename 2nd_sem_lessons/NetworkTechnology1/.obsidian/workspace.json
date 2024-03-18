@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "014975e36c57c4c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Network_Fundamentals_Prelim.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "994de9c84ba58af6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2_Network_Reference_Models.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c82db0df47e30470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_Network_Standard_Protocols.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aeff7223c7b19972",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Network_Reference_Models.md",
+                "file": "3_Network_Standard_Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Network_Reference_Models.md",
+                "file": "3_Network_Standard_Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Network_Reference_Models.md"
+                "file": "3_Network_Standard_Protocols.md"
               }
             }
           }
@@ -160,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "994de9c84ba58af6",
+  "active": "c82db0df47e30470",
   "lastOpenFiles": [
-    "1_Network_Fundamentals_Prelim.md",
     "2_Network_Reference_Models.md",
+    "3_Network_Standard_Protocols.md",
+    "1_Network_Fundamentals_Prelim.md",
     "QuantitavieMethods"
   ]
 }
