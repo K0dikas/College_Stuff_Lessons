@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "745eed7035ef16aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "a059bb64ed9e565a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d4264f52b3f3750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Various_Comtemporary_Issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9570901295a613e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a21a35fc08c59f77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b7a45693f300c27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd4687d92de55ec3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b7aaef6f307e44a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aeff7223c7b19972",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9eb99c83db4bd71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eea2a69ac6e5582a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1_Various_Comtemporary_Issues.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb26ecec60037351",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1_Various_Comtemporary_Issues.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18ff98f3c187a686",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d2b267cb5b36a127",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1_Various_Comtemporary_Issues.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2d4264f52b3f3750",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "1_Various_Comtemporary_Issues.md",
+    "3_All_About_Qualitative.md",
+    "2_All_About_Quantitative.md",
+    "1_Quantitative_Analysis_Overview.md",
+    "4_Decision_Environments.md",
+    "1_Network_Fundamentals_Prelim.md",
+    "QuantitavieMethods"
+  ]
+}
